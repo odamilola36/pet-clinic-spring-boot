@@ -1,4 +1,4 @@
 package com.lomari.petclinicspringboot.model;
 
-public class PetType {
+public class PetType  extends BaseEntity{
 }
